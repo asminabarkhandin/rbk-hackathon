@@ -1,3 +1,3 @@
 # rbk-hackathon
 
-[embed]Hackathon presentation.pdf[/embed]
+![image](Hackathon presentation.pdf)
